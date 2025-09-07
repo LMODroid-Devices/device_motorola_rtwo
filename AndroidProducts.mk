@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_rtwo.mk
+    $(LOCAL_DIR)/lmodroid_rtwo.mk
